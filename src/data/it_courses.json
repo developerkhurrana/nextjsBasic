@@ -1,0 +1,54 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Introduction to Computer Science",
+            "slug": "intro-to-computer-science",
+            "desc": "Learn the fundamentals of computer science and programming in this comprehensive course.",
+            "price": 299,
+            "instructor": "Dr. Jane Smith",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "id": 2,
+            "title": "Data Science with Python",
+            "slug": "data-science-python",
+            "desc": "Master the art of data analysis and visualization using Python and popular libraries like Pandas, NumPy, and Matplotlib.",
+            "price": 499,
+            "instructor": "Mr. John Doe",
+            "isFeatured": false,
+            "image": "https://plus.unsplash.com/premium_photo-1683121366070-5ceb7e007a97?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "id": 3,
+            "title": "Web Development for Beginners",
+            "slug": "web-development-beginners",
+            "desc": "Learn the basics of web development and build your own websites using HTML, CSS, and JavaScript.",
+            "price": 199,
+            "instructor": "Ms. Alice Johnson",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "id": 4,
+            "title": "Machine Learning with TensorFlow",
+            "slug": "machine-learning-tensorflow",
+            "desc": "Dive into the world of machine learning and learn how to build and train neural networks using TensorFlow.",
+            "price": 699,
+            "instructor": "Dr. Bob Brown",
+            "isFeatured": false,
+            "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "id": 5,
+            "title": "Digital Marketing Fundamentals",
+            "slug": "digital-marketing-fundamentals",
+            "desc": "Discover the key principles of digital marketing and learn how to create effective marketing campaigns using SEO, SEM, and social media.",
+            "price": 399,
+            "instructor": "Ms. Sarah Davis",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          }
+    ]
+}
